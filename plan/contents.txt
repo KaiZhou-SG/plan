@@ -3,9 +3,13 @@
   1.1.1 Soft Skills
  1.2 business
   1.2.1 gettingtoyes
- 1.3 professional knowledge
+ 1.3 daily productivity
   1.3.1 the_productive_programmer
-  1.3.2 clean_code
-  1.3.3 html5
-  1.3.4 js
-  1.3.5 python
+  1.3.2 linux + bash + vim
+  1.3.3 thunderbird + firefox
+ 1.4 professional knowledge
+  1.4.1 clean_code
+  1.4.3 html5
+  1.4.4 js
+  1.4.5 python
+  1.4.6 Java

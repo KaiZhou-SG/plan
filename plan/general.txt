@@ -1,3 +1,13 @@
+2015-04-27 updates
+
+1 Will start working for earth9.com on 18th May 2015
+2 Will leave Innosys on 14th May 2015
+3 Need to prepare for the new role in earth9.com before 18th May 2015
+4 Need to hand over the development of the Messaging System to Gerry
+5 Need to complete the source codes of the Messaging System as much as possible
+
+----------- archive ---------------------------
+
 1 Do I go back to China immediately after the contract expires in Innosys Pte Ltd?
 2 Do I renew the contract with Innosys Pte Ltd? 
 3 Do I wait for the update from earth9.com on my SP?

@@ -1,13 +1,14 @@
 The value of a programmer:
- a) his understanding of the business
+ a) his understanding of business
  b) logic thinking
  c) the ability to design software
 
 1 the reading list:
  1.1 career plans
-  1.1.1 Soft Skills
+  1.1.1 Soft_Skills
  1.2 business
-  1.2.1 gettingtoyes
+  1.2.1 rich_dad_poor_dad
+  1.2.2 getting_to_yes
  1.3 daily productivity
   1.3.1 the_productive_programmer
  1.4 professional knowledge

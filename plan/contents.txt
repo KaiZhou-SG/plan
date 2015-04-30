@@ -1,21 +1,22 @@
 The value of a programmer:
- a) his understanding of business
+ a) his ability of doing business
  b) logic thinking
- c) the ability to design software
+ c) his ability of designing software system
 
 1 the reading list:
  1.1 career plans
   1.1.1 Soft_Skills
  1.2 business
-  1.2.1 rich_dad_poor_dad
-  1.2.2 getting_to_yes
+  1.2.1 Rich_Dad_Poor_Dad
+  1.2.2 Getting_to_Yes
  1.3 daily productivity
   1.3.1 the_productive_programmer
  1.4 professional knowledge
   1.4.1 SWEBOKv3
 
 2 basic rules of daily life
-  1 no screens after work
-  2 early up early to bed
-  3 make daily plans
-  4 focus
+  1 adopt to changes while insist on these rules
+  2 no screens after work
+  3 early up early to bed
+  4 make daily plans
+  5 focus

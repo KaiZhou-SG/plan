@@ -1,3 +1,18 @@
+2015-05-11
+  0 Conclusion: keep working on foss projects, don't be bias on technolog-
+ies.
+  1 I've decided to keep working on foss projects in my spare time, cannot
+put my hope on Microsoft technologies, although NZ and AU both have lots of
+positions requiring Microsoft technologies.
+  2 I've tried to do some ASP.NET coding and publishing, I found it really 
+user unfriendly to do the whole work-flow, including requirement analysis,
+design, coding, and publishing and hosting. Visual Studio only makes coding
+a bit easier, but that's the least importaint aspect as per software deve-
+loping activities.
+  3 I've then go to Youtube.com to check-out what's Microsoft recent activ-
+ities, very disapointing, the Key Notes of the Build Conference is disapp-
+ointing, the Windows 10 is very disappointing. Nothing really attracted me.
+
 2015-05-08
 
   1 There are quite a lot of jobs on .NET technologies in AU, and I'll work

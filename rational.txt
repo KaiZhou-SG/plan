@@ -1,3 +1,30 @@
+2015-08-09
+  1 Personal website
+  2 Banking domain knowledge
+  3 Software design
+  4 Financial education
+
+2015-08-07
+  20 days passed, received 2800+ SGD for salary, not bad.
+  Hands on instead of reading books.
+  Banking domain knowledge + software design 
+
+2015-08-02
+  Have been working @NCS for 22 days, the culture is very friendly, the workloadis reasonable.
+  The project: DBS AOS, worth doing.
+  Problems:
+  1 No internet access in office hours(so I cannot gather information easily)
+  2 No administrator priveleage of my OS(so I cannot install software or 
+    customize developing environment as I wish)
+  >> How to solve the problems:
+  1 Focus on ASP.NET and C#, and banking domain knowledge and software archi-
+tecture.
+  2 Create a good reading list, and download the learnning materials into the
+work laptop
+   
+2015-07-17
+  Now I work for NCS, DBS AOS project, using ASP.NET MVC technologies.
+
 2015-05-16
   Since I've decided to focus on foss projects instead of Microsoft Technology,
 what kind of skill set am I going to use to look for a job in NZ?

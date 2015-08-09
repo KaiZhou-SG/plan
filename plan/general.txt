@@ -1,3 +1,9 @@
+2015-08-09
+  I started working at NCS on 10th July, one month ago.
+  The pay is good, the workload not so heavy, the project, Accounting Opening System is not plain meaningless.
+  So I may keep working there for 2 years, but I absolutely need to learn other
+technologies than ASP.NET MVC. It's so boring. 
+
 2015-05-08 updates
 
 1 I have done the medical check as per request, and the result is positive:
